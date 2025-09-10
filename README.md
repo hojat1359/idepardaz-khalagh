@@ -1,5 +1,3 @@
-
-# idepardaz-khalagh
 # idepardaz-khalagh
 
 سایت نمونه برای برند آموزشی "ایده‌پرداز خلاق"، طراحی‌شده با HTML و CSS.  
